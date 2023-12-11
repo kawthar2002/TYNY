@@ -1,2 +1,0 @@
-# TYNY
-test task 
